@@ -320,7 +320,7 @@ export default class BreedInformation extends Component<Props> {
                         <Picker.Item label="Male" value="male" />
                         <Picker.Item label="Female" value="female" />
                       </Picker>
-                      <View style={styles.location}></View>
+                      <View style={styles.location}></View> 
                 </View>
             </View>
 
